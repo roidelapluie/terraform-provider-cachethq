@@ -3,6 +3,12 @@
 	"ignore": "appengine test github.com/hashicorp/nomad/ github.com/hashicorp/terraform/backend",
 	"package": [
 		{
+			"checksumSHA1": "yJJWtCTcCjljBEcVEEaYWx6N34Y=",
+			"path": "github.com/andygrunwald/cachet",
+			"revision": "a1a24661ddb96f4ad8cb3774c5cf24b89b20e825",
+			"revisionTime": "2017-08-31T14:00:27Z"
+		},
+		{
 			"checksumSHA1": "FIL83loX9V9APvGQIjJpbxq53F0=",
 			"path": "github.com/apparentlymart/go-cidr/cidr",
 			"revision": "7e4b007599d4e2076d9a81be723b3912852dda2c",
@@ -638,5 +644,5 @@
 			"versionExact": "v1.6.1"
 		}
 	],
-	"rootPath": "github.com/terraform-providers/terraform-provider-template"
+	"rootPath": "github.com/roidelapluie/terraform-provider-cachethq"
 }
